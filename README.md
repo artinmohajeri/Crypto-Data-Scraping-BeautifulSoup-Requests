@@ -1,4 +1,4 @@
-# Web Scrapping Crypto Data
+# Web Scraping Crypto Data
 
 ### This is my first web-scraping project using bs4(BeautifulSoup).
 ### I use requests module, to send an API request to https://coinmarketcap.com/ and grab some information (currencyName, price, volume(24h)) from it and make a sqlite database.
