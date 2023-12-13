@@ -6,5 +6,5 @@
 ### At first, run the file "main.py".  then two files will be created. the first one is a sqlite3 database and the second file is "display.py" which uses tkinter and ttk to display the database in a graphical table.
 
 
-##### display.py ↓↓
+#### display.py ↓↓
 ![Screenshot (136)](https://github.com/artinmohajeri/Crypto-Data-Scraping-BeautifulSoup-Requests/assets/95845593/35a1d086-a396-426b-b23f-9c4f015da5f7)
